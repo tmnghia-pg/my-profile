@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "misa-2023-present",
+      "company": "Công ty Cổ phần MISA",
+      "position": {
+        "vi": "Software Engineer / Technical Advisor",
+        "en": "Software Engineer / Technical Advisor"
+      },
+      "roleProgression": {
+        "vi": "Software Engineer (07/2023) → Technical Advisor (Bổ nhiệm 10/2025 – Hiện tại)",
+        "en": "Software Engineer (07/2023) → Technical Advisor (Appointed 10/2025 – Present)"
+      },
+      "advisorPromotionDate": "2025-10",
+      "location": {
+        "vi": "Hà Nội, Việt Nam",
+        "en": "Hanoi, Vietnam"
+      },
+      "startDate": "2023-07",
+      "endDate": null,
+      "isCurrent": true,
+      "summary": {
+        "vi": "Tham gia phát triển và tối ưu các sản phẩm phần mềm phục vụ lĩnh vực tài chính công, ngân sách địa phương và kế toán chuyên ngành (MISA BUMAS, MISA LEKIMA, MISA Panda Online).",
+        "en": "Developing and optimizing core enterprise software products for public finance, local budget management, and specialized accounting (MISA BUMAS, MISA LEKIMA, MISA Panda Online)."
+      },
+      "responsibilityGroups": [
+        {
+          "id": "product-development",
+          "title": {
+            "vi": "Phát triển sản phẩm (Product Development)",
+            "en": "Product Development"
+          },
+          "items": [
+            {
+              "vi": "Phân tích yêu cầu từ BA và chuyển đổi thành kiến trúc giải pháp cho các module nghiệp vụ phức tạp.",
+              "en": "Analyzed BA requirements and translated them into modular technical architectures."
+            },
+            {
+              "vi": "Trực tiếp triển khai các phân hệ và tính năng nghiệp vụ cốt lõi với độ chính xác cao.",
+              "en": "Implemented complex domain modules with strict business logic and fiscal integrity."
+            },
+            {
+              "vi": "Chủ động đề xuất và đóng góp giải pháp kỹ thuật nhằm cải tiến luồng xử lý của sản phẩm.",
+              "en": "Proposed and contributed robust technical solutions to optimize product business workflows."
+            }
+          ]
+        },
+        {
+          "id": "technical-contribution",
+          "title": {
+            "vi": "Đóng góp kỹ thuật (Technical Contribution)",
+            "en": "Technical Contribution"
+          },
+          "items": [
+            {
+              "vi": "Nghiên cứu và phát triển Custom Reporting Engine sử dụng GrapeCity Documents for Excel, chuẩn hóa template JSON sinh báo cáo phân cấp, dòng/cột động, đáp ứng ~90% mẫu báo cáo thực tế.",
+              "en": "Engineered a custom reporting engine using GrapeCity Documents for Excel, normalizing JSON templates for hierarchical and dynamic reports, covering ~90% of production formats."
+            },
+            {
+              "vi": "Theo dõi, phân tích và trực tiếp xử lý các điểm nghẽn hiệu năng trên các luồng xử lý báo cáo lớn.",
+              "en": "Monitored, analyzed, and optimized application performance bottlenecks on heavy reporting endpoints."
+            },
+            {
+              "vi": "Tham gia rà soát an ninh bảo mật và chuẩn hóa, cải tiến Design System dùng chung của dự án.",
+              "en": "Conducted security audits and championed improvements to the shared enterprise Design System."
+            }
+          ]
+        },
+        {
+          "id": "ai-engineering",
+          "title": {
+            "vi": "Ứng dụng AI Coding (AI Engineering)",
+            "en": "AI Engineering"
+          },
+          "items": [
+            {
+              "vi": "Chuẩn hóa quy trình AI Coding theo ngữ cảnh dự án nhằm tăng tốc độ phát triển và kiểm soát chất lượng.",
+              "en": "Standardized AI Coding workflows for project teams, accelerating delivery and enforcing code standards."
+            },
+            {
+              "vi": "Xây dựng và duy trì kho tri thức dự án (domain/technical wikis) làm nền tảng prompt cho AI.",
+              "en": "Built and maintained project knowledge bases (domain & tech wikis) as context for AI assistance."
+            },
+            {
+              "vi": "Phát triển các AI skill chuyên biệt phục vụ phân tích nghiệp vụ, sinh mã nguồn và kịch bản kiểm thử.",
+              "en": "Authored specialized AI skills to streamline requirement analysis, code implementation, and testing."
+            }
+          ]
+        },
+        {
+          "id": "technical-mentorship",
+          "title": {
+            "vi": "Cố vấn & Đào tạo kỹ thuật (Technical Mentorship)",
+            "en": "Technical Mentorship"
+          },
+          "items": [
+            {
+              "vi": "Đảm nhận vai trò Technical Advisor sau khi hoàn thành chương trình 'MISA – Cán bộ nguồn'.",
+              "en": "Appointed as Technical Advisor following completion of the MISA Management Development Program."
+            },
+            {
+              "vi": "Trực tiếp đào tạo, hướng dẫn và đồng hành cùng 3 nhân sự Fresher vượt qua giai đoạn thử việc thành công.",
+              "en": "Directly mentored and guided 3 Fresher developers through probation into confident project contributors."
+            },
+            {
+              "vi": "Định hướng tư duy kỹ thuật trong dự án, chia sẻ kinh nghiệm xử lý sự cố và thực hành Clean Architecture.",
+              "en": "Guided technical problem-solving mindsets and shared expertise in Clean Architecture practices."
+            }
+          ]
+        }
+      ],
+      "highlights": [
+        {
+          "vi": "Phát triển sản phẩm: Phân tích yêu cầu BA, triển khai các module nghiệp vụ phức tạp và chủ động đề xuất giải pháp kỹ thuật.",
+          "en": "Product Development: Analyzed BA requirements, implemented complex business modules, and contributed technical solutions."
+        },
+        {
+          "vi": "Đóng góp kỹ thuật: Xây dựng Custom Reporting Engine bằng GrapeCity Documents for Excel (đáp ứng ~90% mẫu báo cáo thực tế), tối ưu hiệu năng, rà soát an ninh và cải tiến Design System.",
+          "en": "Technical Contribution: Built GrapeCity Documents for Excel custom reporting engine (~90% report coverage), resolved performance bottlenecks, audited security, and improved Design System."
+        },
+        {
+          "vi": "AI Engineering: Chuẩn hóa quy trình AI Coding, xây dựng kho tri thức dự án và phát triển các skill chuyên biệt cho phân tích, code và kiểm thử.",
+          "en": "AI Engineering: Standardized AI Coding workflows, maintained project knowledge bases, and built specialized AI skills for analysis, coding, and testing."
+        },
+        {
+          "vi": "Technical Mentorship: Vai trò Technical Advisor sau chương trình MISA – Cán bộ nguồn, trực tiếp đào tạo 3 Fresher vượt qua thử việc và định hướng tư duy kỹ thuật.",
+          "en": "Technical Mentorship: Served as Technical Advisor (MISA Future Leaders program), mentored 3 Fresher developers through probation, and guided technical mindsets."
+        }
+      ],
+      "projectIds": [
+        "misa-bumas",
+        "misa-lekima",
+        "misa-panda-online"
+      ],
+      "skillIds": [
+        "csharp",
+        "dotnet-8",
+        "aspnet-core",
+        "vue-3",
+        "clean-architecture",
+        "kafka",
+        "grapecity-excel",
+        "playwright"
+      ]
+    }
+  ]
+}

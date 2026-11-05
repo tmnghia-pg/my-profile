@@ -1,0 +1,318 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "snapfox",
+      "name": "SnapFox Print LLC",
+      "category": "featured",
+      "tagline": {
+        "vi": "Hệ thống Print-on-Demand & Vận hành xưởng Fulfillment",
+        "en": "Print-on-Demand E-Commerce & Factory Fulfillment Platform"
+      },
+      "description": {
+        "vi": "Giải pháp phần mềm độc lập gồm 2 phân hệ kết nối chặt chẽ: website khách hàng SnapFox (đặt hàng, thanh toán) và phần mềm nội bộ SnapFoxFactory (quản lý toàn bộ quy trình vận hành và điều phối xưởng in).",
+        "en": "Independent full-cycle solution featuring two interconnected systems: customer storefront SnapFox (order, payment) and internal SnapFoxFactory (factory operations and production fulfillment)."
+      },
+      "resumeDescription": {
+        "vi": "Độc lập phát triển giải pháp end-to-end gồm website bán hàng và phần mềm SnapFoxFactory điều phối toàn bộ quy trình xưởng in.",
+        "en": "Independently built end-to-end solution combining customer storefront and SnapFoxFactory managing all print shop workflows."
+      },
+      "role": {
+        "vi": "Độc lập nghiên cứu & phát triển (Independent Developer)",
+        "en": "Independent Developer"
+      },
+      "period": "2023 - 2024",
+      "technologies": [
+        "aspnet-core-mvc",
+        "csharp",
+        "sql-server",
+        "javascript",
+        "html",
+        "css"
+      ],
+      "highlights": {
+        "vi": [
+          "Xây dựng luồng quy trình vận hành khép kín end-to-end: Order → Design Processing → Mockup → Pack & Ship → Delivery.",
+          "Phát triển module quản lý file thiết kế in ấn và xử lý tùy biến mockup trực quan theo yêu cầu của khách hàng.",
+          "Xây dựng hệ thống theo dõi hiệu suất làm việc của công nhân/nhân viên xưởng và quản lý kho vật tư in ấn."
+        ],
+        "en": [
+          "Architected complete end-to-end workflow: Order → Design Processing → Mockup → Pack & Ship → Delivery.",
+          "Engineered print design asset management and interactive customer mockup customization features.",
+          "Built factory personnel performance tracking and raw material inventory management subsystems."
+        ]
+      },
+      "resumeHighlights": {
+        "vi": [
+          "Xây dựng luồng khép kín Order → Design Processing → Mockup → Pack & Ship → Delivery.",
+          "Module quản lý file thiết kế, tùy biến mockup và quản lý tồn kho vật tư xưởng in.",
+          "Theo dõi hiệu suất làm việc nhân viên xưởng và phân quyền điều phối sản xuất."
+        ],
+        "en": [
+          "Built complete fulfillment pipeline: Order → Design Processing → Mockup → Pack & Ship → Delivery.",
+          "Developed print asset repository, dynamic mockup customization, and inventory controls.",
+          "Implemented factory personnel performance metrics and role-based operations dispatching."
+        ]
+      },
+      "status": "active",
+      "featured": true,
+      "priority": 1
+    },
+    {
+      "id": "torven",
+      "name": "TORVEN",
+      "category": "featured",
+      "tagline": {
+        "vi": "E-Commerce & Headless CMS Chăm sóc cá nhân nam giới (AI-First)",
+        "en": "Men's Personal Care E-Commerce & Headless CMS (AI-First Engineering)"
+      },
+      "description": {
+        "vi": "Nền tảng thương mại điện tử trực tiếp tới người tiêu dùng cho thương hiệu chăm sóc cá nhân nam giới, ứng dụng sâu rộng AI Coding xuyên suốt toàn bộ vòng đời phát triển phần mềm và tích hợp đa dịch vụ.",
+        "en": "Direct-to-consumer e-commerce platform for a men's personal care brand, applying extensive AI Coding throughout the entire software development lifecycle and multi-service integration."
+      },
+      "resumeDescription": {
+        "vi": "Nền tảng thương mại điện tử thi công với AI Coding xuyên suốt SDLC; hệ thống CMS toàn diện, tích hợp Zalo OA và thanh toán trực tuyến.",
+        "en": "E-commerce platform built with AI Coding throughout SDLC; comprehensive CMS, Zalo OA, and online bank payments."
+      },
+      "role": {
+        "vi": "Lập trình viên (Developer - AI-assisted)",
+        "en": "Developer (AI-assisted)"
+      },
+      "period": "2024",
+      "technologies": [
+        "nextjs",
+        "postgresql",
+        "javascript",
+        "css"
+      ],
+      "highlights": {
+        "vi": [
+          "Ứng dụng phương pháp AI Coding xuyên suốt toàn bộ quá trình phát triển từ phân tích yêu cầu, thiết kế kiến trúc, sinh mã nguồn đến kiểm thử, giúp tối ưu hóa tiến độ và chuẩn hóa chất lượng.",
+          "Hoàn thiện hệ thống CMS quản trị toàn diện: quản lý danh mục sản phẩm, đơn hàng, khách hàng, chương trình điểm thưởng (loyalty), tin tức, đánh giá và cấu hình khối giao diện.",
+          "Tích hợp đồng bộ các dịch vụ bên thứ ba: liên kết cổng thanh toán ngân hàng trực tuyến và tích hợp Zalo OA chăm sóc khách hàng tự động."
+        ],
+        "en": [
+          "Applied AI Coding across the entire lifecycle—from requirement analysis and architecture to code generation and testing—maximizing velocity and code consistency.",
+          "Delivered a comprehensive admin CMS: products, orders, customers, loyalty rewards, articles, reviews, and dynamic layout configuration.",
+          "Seamlessly integrated third-party services: online banking payment gateways and Zalo OA for automated customer engagement."
+        ]
+      },
+      "resumeHighlights": {
+        "vi": [
+          "Ứng dụng AI Coding xuyên suốt từ phân tích, thiết kế, triển khai đến kiểm thử.",
+          "CMS quản trị toàn diện: sản phẩm, đơn hàng, khách hàng, loyalty, tin tức, đánh giá.",
+          "Tích hợp Zalo OA tự động và liên kết cổng thanh toán trực tuyến ngân hàng."
+        ],
+        "en": [
+          "Employed AI Coding across requirements, architecture, coding, and automated testing.",
+          "Comprehensive admin CMS: products, orders, customers, loyalty points, articles, reviews.",
+          "Integrated Zalo OA automated messaging and online banking payment gateways."
+        ]
+      },
+      "status": "in-progress",
+      "featured": true,
+      "priority": 2
+    },
+    {
+      "id": "misa-bumas",
+      "name": "MISA BUMAS",
+      "category": "enterprise",
+      "tagline": {
+        "vi": "Phần mềm Quản lý Ngân sách Nhà nước",
+        "en": "Local Government Budget Management Platform"
+      },
+      "description": {
+        "vi": "Hệ thống quản lý ngân sách nhà nước cấp địa phương, phục vụ lập dự toán, chấp hành và tổng hợp số liệu với khối lượng dữ liệu lớn và yêu cầu nghiệp vụ nghiêm ngặt.",
+        "en": "State budget management platform for local administrative divisions, supporting budget estimation, execution, and financial consolidation with high data volumes and strict fiscal standards."
+      },
+      "resumeDescription": {
+        "vi": "Hệ thống quản lý ngân sách địa phương; độc lập nghiên cứu Custom Reporting Engine bằng GrapeCity Documents for Excel đáp ứng ~90% mẫu báo cáo thực tế.",
+        "en": "Local government budget platform; engineered custom reporting engine using GrapeCity Documents for Excel fulfilling ~90% of dynamic report formats."
+      },
+      "role": {
+        "vi": "Software Engineer",
+        "en": "Software Engineer"
+      },
+      "period": "2023 - Hiện tại",
+      "technologies": [
+        "dotnet-8",
+        "vue-3",
+        "clean-architecture",
+        "grapecity-excel",
+        "sql-server"
+      ],
+      "highlights": {
+        "vi": [
+          "Phát triển các module cốt lõi: lập dự toán ngân sách, quản lý danh mục và quản lý thuyết minh Excel đồng bộ.",
+          "Độc lập nghiên cứu và xây dựng Custom Reporting Engine sử dụng GrapeCity Documents for Excel: hỗ trợ người dùng tự cấu hình báo cáo phân cấp, dòng/cột động và trộn dữ liệu đa nguồn; chuẩn hóa dữ liệu sang template JSON, đáp ứng ~90% mẫu báo cáo thực tế.",
+          "Tham gia nghiên cứu và phát triển AI Agent tự động phân tích cấu trúc file Excel mẫu của khách hàng để sinh mẫu thuyết minh tương thích trên hệ thống."
+        ],
+        "en": [
+          "Engineered core modules: budget estimation, catalog management, and Excel financial note synchronization.",
+          "Independently designed and built a Custom Reporting Engine using GrapeCity Documents for Excel: supported hierarchical structures, dynamic rows/columns, and multi-source data merging; normalized into clean JSON templates, fulfilling ~90% of real-world complex reports.",
+          "Contributed to building an AI Agent that parses real customer Excel report samples and automatically generates system-compatible explanation templates."
+        ]
+      },
+      "resumeHighlights": {
+        "vi": [
+          "Xây dựng Custom Reporting Engine bằng GrapeCity Documents for Excel (báo cáo phân cấp, dòng/cột động), giải quyết bài toán phức tạp và đáp ứng ~90% mẫu báo cáo thực tế.",
+          "Phát triển các module cốt lõi: lập dự toán ngân sách, quản lý danh mục và đồng bộ thuyết minh Excel.",
+          "Tham gia phát triển AI Agent tự động phân tích cấu trúc template Excel khách hàng."
+        ],
+        "en": [
+          "Built custom reporting engine via GrapeCity Documents for Excel (hierarchical, dynamic rows/cols), fulfilling ~90% of production formats.",
+          "Engineered core modules: budget estimation, catalog management, and Excel financial notes sync.",
+          "Contributed to AI Agent parsing customer Excel templates into structured system schemas."
+        ]
+      },
+      "metrics": {
+        "vi": "Đáp ứng ~90% mẫu báo cáo thực tế",
+        "en": "Satisfies ~90% of complex report formats"
+      },
+      "status": "active",
+      "featured": true,
+      "priority": 3
+    },
+    {
+      "id": "misa-lekima",
+      "name": "MISA LEKIMA",
+      "category": "enterprise",
+      "tagline": {
+        "vi": "Phần mềm Tổng hợp báo cáo Quyết toán Tài chính",
+        "en": "Financial Settlement & Reporting Consolidation Platform"
+      },
+      "description": {
+        "vi": "Giải pháp tổng hợp và đối soát báo cáo quyết toán tài chính, kết nối số liệu từ nhiều đơn vị trực thuộc và cấp trên.",
+        "en": "Centralized reporting platform consolidating and auditing fiscal balance sheets and financial statements across multi-tiered public entities."
+      },
+      "resumeDescription": {
+        "vi": "Phần mềm đối soát và tổng hợp báo cáo quyết toán tài chính; tối ưu hiệu năng luồng xử lý báo cáo lớn và chuẩn hóa Design System.",
+        "en": "Financial settlement platform; optimized performance on heavy reporting pipelines and standardized enterprise Design System."
+      },
+      "role": {
+        "vi": "Software Engineer / Technical Advisor",
+        "en": "Software Engineer / Technical Advisor"
+      },
+      "period": "2023 - Hiện tại",
+      "technologies": [
+        "dotnet-8",
+        "aspnet-core-mvc",
+        "javascript",
+        "clean-architecture"
+      ],
+      "highlights": {
+        "vi": [
+          "Phát triển và cải tiến các chức năng nghiệp vụ xử lý dữ liệu quyết toán và module đối chiếu giao dịch nội bộ tự động.",
+          "Tham gia theo dõi, phân tích và tối ưu hiệu năng các luồng xử lý báo cáo lớn.",
+          "Tham gia rà soát an ninh bảo mật ứng dụng và chuẩn hóa, cải tiến Design System dùng chung của dự án."
+        ],
+        "en": [
+          "Developed and enhanced core financial settlement auditing and automated internal transaction reconciliation.",
+          "Monitored, analyzed, and optimized application performance bottlenecks on heavy reporting endpoints.",
+          "Conducted application security reviews and spearheaded improvements to the shared enterprise Design System."
+        ]
+      },
+      "resumeHighlights": {
+        "vi": [
+          "Phát triển module đối chiếu giao dịch nội bộ và kiểm soát dữ liệu quyết toán tài chính liên đơn vị.",
+          "Tối ưu hiệu năng các luồng xử lý báo cáo lớn; rà soát an ninh bảo mật và cải tiến Design System."
+        ],
+        "en": [
+          "Engineered automated internal transaction reconciliation and cross-entity balance auditing.",
+          "Optimized runtime performance on heavy reporting endpoints; conducted security audits and Design System updates."
+        ]
+      },
+      "status": "active",
+      "featured": true,
+      "priority": 4
+    },
+    {
+      "id": "misa-panda-online",
+      "name": "MISA Panda Online",
+      "category": "enterprise",
+      "tagline": {
+        "vi": "Phần mềm Kế toán nghiệp vụ Thi hành án dân sự",
+        "en": "Specialized Accounting Platform for Civil Judgment Enforcement"
+      },
+      "description": {
+        "vi": "Hệ thống kế toán nghiệp vụ đặc thù phục vụ công tác thu nộp, thanh toán, quản lý tiền gửi và tang vật của các cơ quan thi hành án.",
+        "en": "Domain-specific accounting application managing legal disbursements, revenue collections, escrow funds, and seized property for judgment enforcement agencies."
+      },
+      "resumeDescription": {
+        "vi": "Kế toán nghiệp vụ thi hành án dân sự; phát triển module đối chiếu giao dịch nội bộ và xây dựng bộ wiki tri thức kết hợp AI Coding.",
+        "en": "Specialized accounting platform; built transaction reconciliation module and curated domain/technical wikis with AI Coding."
+      },
+      "role": {
+        "vi": "Software Engineer / Technical Advisor",
+        "en": "Software Engineer / Technical Advisor"
+      },
+      "period": "2023 - Hiện tại",
+      "technologies": [
+        "dotnet-8",
+        "aspnet-core-mvc",
+        "javascript",
+        "sql-server"
+      ],
+      "highlights": {
+        "vi": [
+          "Phát triển module đối chiếu giao dịch nội bộ giúp phát hiện sai lệch và đảm bảo tính toàn vẹn dữ liệu sổ cái kế toán.",
+          "Theo dõi hiệu năng hệ thống, tham gia kiểm soát an ninh ứng dụng.",
+          "Ứng dụng AI Coding vào dự án: xây dựng bộ wiki tri thức nghiệp vụ và kỹ thuật, tạo các skill hỗ trợ quy trình code & test."
+        ],
+        "en": [
+          "Developed an internal transaction reconciliation module ensuring data consistency and catching ledger discrepancies.",
+          "Monitored operational performance and reinforced security hardening.",
+          "Structured project AI Coding initiatives: curated domain/technical wikis and built purpose-specific automation skills for development and testing."
+        ]
+      },
+      "resumeHighlights": {
+        "vi": [
+          "Phát triển module đối chiếu giao dịch nội bộ đảm bảo tính toàn vẹn và khớp đúng sổ cái kế toán.",
+          "Cải tiến hiệu năng, an ninh và xây dựng kho tri thức dự án kết hợp các AI skill chuyên biệt."
+        ],
+        "en": [
+          "Built internal ledger reconciliation module safeguarding data integrity and preventing discrepancy.",
+          "Improved performance and security; established project knowledge base and customized AI development skills."
+        ]
+      },
+      "status": "active",
+      "featured": true,
+      "priority": 5
+    },
+    {
+      "id": "house-drawing-marketplace",
+      "name": "Siêu thị bản vẽ nhà",
+      "category": "archived",
+      "tagline": {
+        "vi": "Website quản lý và giới thiệu bản vẽ kiến trúc nhà",
+        "en": "Architectural House Plans & Blueprint Marketplace"
+      },
+      "description": {
+        "vi": "Hệ thống quản lý, phân loại và giới thiệu các bản vẽ thiết kế kiến trúc và công trình xây dựng dân dụng.",
+        "en": "Web platform cataloging and showcasing residential architectural drawings and construction blueprints."
+      },
+      "role": {
+        "vi": "Developer",
+        "en": "Developer"
+      },
+      "period": "2022 - 2023",
+      "technologies": [
+        "aspnet-core-mvc",
+        "javascript",
+        "html",
+        "css"
+      ],
+      "highlights": {
+        "vi": [
+          "Phát triển chức năng phân loại danh mục bản vẽ, tin tức chuyên ngành, liên hệ tư vấn và xác thực tài khoản."
+        ],
+        "en": [
+          "Developed blueprint catalog navigation, architectural news feeds, consultation inquiry forms, and auth system."
+        ]
+      },
+      "status": "archived",
+      "featured": false,
+      "priority": 99
+    }
+  ]
+}

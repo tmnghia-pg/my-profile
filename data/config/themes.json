@@ -1,0 +1,17 @@
+{
+  "defaultTheme": "minimal",
+  "themes": [
+    {
+      "id": "minimal",
+      "name": "Minimal Light",
+      "colorScheme": "light",
+      "supportsPrint": true
+    },
+    {
+      "id": "dark",
+      "name": "Dark Developer",
+      "colorScheme": "dark",
+      "supportsPrint": true
+    }
+  ]
+}

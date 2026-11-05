@@ -1,0 +1,85 @@
+{
+  "defaultProfile": "dotnet-backend",
+  "profiles": [
+    {
+      "id": "dotnet-backend",
+      "name": {
+        "vi": ".NET Backend Specialist",
+        "en": ".NET Backend Specialist"
+      },
+      "badge": "Primary Target",
+      "headline": {
+        "vi": "Fullstack Developer | .NET Backend Specialist",
+        "en": "Fullstack Developer | .NET Backend Specialist"
+      },
+      "summary": {
+        "vi": "Fullstack Developer với hơn 3 năm kinh nghiệm, định hướng chuyên sâu .NET Backend, sử dụng .NET 8, ASP.NET Core và Vue.js. Có khả năng độc lập phân tích yêu cầu, đề xuất giải pháp kỹ thuật và phát triển sản phẩm phần mềm end-to-end.\n\nChủ động ứng dụng AI Coding trong quy trình phát triển phần mềm. Có kinh nghiệm Technical Advisor, đào tạo Fresher và tích cực đóng góp vào các hoạt động kỹ thuật, cải tiến sản phẩm.",
+        "en": "Fullstack Developer with 3+ years of experience, specializing in .NET Backend development using .NET 8, ASP.NET Core, and Vue.js. Capable of independently analyzing requirements, proposing technical solutions, and delivering end-to-end software products.\n\nProactively integrates AI Coding into the software development lifecycle. Experienced as a Technical Advisor, mentoring Fresher developers, and actively contributing to technical initiatives and product improvements."
+      },
+      "visibleSections": [
+        "summary",
+        "skills",
+        "experience",
+        "projects",
+        "education",
+        "certificates"
+      ],
+      "featuredProjectIds": [
+        "snapfox",
+        "torven",
+        "misa-bumas",
+        "misa-lekima",
+        "misa-panda-online"
+      ],
+      "skillGroupsOrder": [
+        "backend",
+        "frontend",
+        "architecture",
+        "database",
+        "testing",
+        "tools-ai",
+        "libraries"
+      ]
+    },
+    {
+      "id": "fullstack",
+      "name": {
+        "vi": "Fullstack Developer",
+        "en": "Fullstack Developer"
+      },
+      "badge": "Fullstack Variant",
+      "headline": {
+        "vi": "Fullstack Developer | .NET Backend Specialist",
+        "en": "Fullstack Developer | .NET Backend Specialist"
+      },
+      "summary": {
+        "vi": "Fullstack Developer với hơn 3 năm kinh nghiệm, kết hợp nền tảng backend .NET 8/ASP.NET Core vững chắc cùng frontend hiện đại (Vue 3, Next.js). Khả năng phát triển độc lập và làm chủ kỹ thuật toàn bộ sản phẩm từ phân tích yêu cầu, kiến trúc hệ thống đến vận hành thực tế.",
+        "en": "Fullstack Developer with 3+ years of experience, bridging solid .NET 8/ASP.NET Core backend services with modern frontends (Vue 3, Next.js). Proven track record of independently delivering and operating end-to-end software products."
+      },
+      "visibleSections": [
+        "summary",
+        "skills",
+        "experience",
+        "projects",
+        "education",
+        "certificates"
+      ],
+      "featuredProjectIds": [
+        "snapfox",
+        "torven",
+        "misa-bumas",
+        "misa-lekima",
+        "misa-panda-online"
+      ],
+      "skillGroupsOrder": [
+        "backend",
+        "frontend",
+        "architecture",
+        "database",
+        "testing",
+        "tools-ai",
+        "libraries"
+      ]
+    }
+  ]
+}

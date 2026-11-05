@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "utc-2023",
+      "institution": "Đại học Giao thông Vận tải",
+      "institutionEn": "University of Transport and Communications",
+      "degree": {
+        "vi": "Kỹ sư Công nghệ thông tin (Bachelor of IT)",
+        "en": "Bachelor of Information Technology"
+      },
+      "period": "2018 - 2023",
+      "graduationYear": 2023,
+      "gpa": "3.45 / 4.0",
+      "grade": {
+        "vi": "Loại Giỏi (GPA: 3.45 / 4.0)",
+        "en": "Good classification (GPA: 3.45 / 4.0 - Distinction)"
+      },
+      "highlights": {
+        "vi": "Chương trình đào tạo kỹ sư chính quy ngành Công nghệ thông tin; tốt nghiệp Loại Giỏi (GPA 3.45 / 4.0) năm 2023.",
+        "en": "Formal full-time engineering curriculum in Information Technology; graduated with Distinction (GPA 3.45 / 4.0) in 2023."
+      }
+    }
+  ]
+}

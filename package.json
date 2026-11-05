@@ -1,0 +1,13 @@
+{
+  "name": "my-profile",
+  "version": "1.0.0",
+  "description": "Static CV and Portfolio website for Senior .NET Developer",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["portfolio", "resume", "dotnet", "developer"],
+  "author": "Trần Minh Nghĩa",
+  "license": "MIT"
+}

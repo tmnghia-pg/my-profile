@@ -1,0 +1,55 @@
+/* Dark Tech Theme
+   Design System:
+   - Background: #0B1120
+   - Surface: #111C30
+   - Primary text: #E2E8F0
+   - Secondary text: #94A3B8
+   - Accent: #60A5FA
+   - Border: #263449
+*/
+
+:root[data-theme="dark"],
+[data-theme="dark"] {
+  /* Surfaces & Backgrounds */
+  --bg-primary: #0B1120;
+  --bg-surface: #111C30;
+  --bg-surface-elevated: #16243D;
+  --bg-surface-alt: #16243D;
+  --bg-glass: rgba(17, 28, 48, 0.92);
+  
+  /* Typography Colors */
+  --text-primary: #E2E8F0;
+  --text-secondary: #94A3B8;
+  --text-muted: #64748B;
+  --text-inverse: #0B1120;
+  
+  /* Borders */
+  --border-color: #263449;
+  --border-subtle: #1E2B3E;
+  --border-focus: #60A5FA;
+  
+  /* Accent & Primary Colors (WCAG AA Compliant) */
+  --primary: #60A5FA;
+  --primary-hover: #93C5FD;
+  --primary-light: rgba(96, 165, 250, 0.12);
+  --primary-glow: rgba(96, 165, 250, 0.1);
+  --btn-primary-text: #0B1120;
+  
+  --accent: #60A5FA;
+  --accent-light: rgba(96, 165, 250, 0.12);
+  --accent-gradient: #60A5FA;
+  
+  /* Badges & Tags */
+  --badge-bg: #111C30;
+  --badge-text: #E2E8F0;
+  --badge-border: #263449;
+  
+  /* Restrained Shadows (Clean & Subtle) */
+  --card-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.35);
+  --card-shadow-hover: 0 4px 12px -2px rgba(0, 0, 0, 0.5);
+  --toolbar-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+  
+  /* Timeline */
+  --timeline-line: #263449;
+  --timeline-dot-border: #0B1120;
+}

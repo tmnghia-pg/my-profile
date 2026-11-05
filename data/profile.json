@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "tran-minh-nghia",
+  "name": {
+    "vi": "Trần Minh Nghĩa",
+    "en": "Tran Minh Nghia"
+  },
+  "location": {
+    "vi": "Hà Nội, Việt Nam",
+    "en": "Hanoi, Vietnam"
+  },
+  "contact": {
+    "phone": "0825555732",
+    "email": "mntran.pe@gmail.com",
+    "linkedin": null,
+    "github": "https://github.com/tmnghia-pg",
+    "website": "https://tmnghia-pg.github.io/my-portfolio/"
+  },
+  "avatar": "assets/images/avatar.png",
+  "headline": {
+    "vi": "Fullstack Developer | .NET Backend Specialist",
+    "en": "Fullstack Developer | .NET Backend Specialist"
+  },
+  "targetPosition": {
+    "vi": "Senior .NET Developer / .NET Backend Developer",
+    "en": "Senior .NET Developer / .NET Backend Developer"
+  },
+  "experiencePeriod": {
+    "startDate": "2023-07",
+    "advisorPromotionDate": "2025-10",
+    "label": {
+      "vi": "Hơn 3 năm kinh nghiệm (07/2023 – Hiện tại) • Advisor từ 10/2025",
+      "en": "3+ years of experience (07/2023 – Present) • Technical Advisor since 10/2025"
+    }
+  },
+  "summary": {
+    "vi": "Fullstack Developer với hơn 3 năm kinh nghiệm, định hướng chuyên sâu .NET Backend, sử dụng .NET 8, ASP.NET Core và Vue.js. Có khả năng độc lập phân tích yêu cầu, đề xuất giải pháp kỹ thuật và phát triển sản phẩm phần mềm end-to-end.\n\nChủ động ứng dụng AI Coding trong quy trình phát triển phần mềm. Có kinh nghiệm Technical Advisor, đào tạo Fresher và tích cực đóng góp vào các hoạt động kỹ thuật, cải tiến sản phẩm.",
+    "en": "Fullstack Developer with 3+ years of experience, specializing in .NET Backend development using .NET 8, ASP.NET Core, and Vue.js. Capable of independently analyzing requirements, proposing technical solutions, and delivering end-to-end software products.\n\nProactively integrates AI Coding into the software development lifecycle. Experienced as a Technical Advisor, mentoring Fresher developers, and actively contributing to technical initiatives and product improvements."
+  },
+  "softSkills": {
+    "items": [
+      {
+        "name": "Team Collaboration",
+        "desc": {
+          "vi": "Làm việc nhóm hiệu quả, tinh thần trách nhiệm và gắn kết cao",
+          "en": "Effective cross-functional teamwork with high accountability"
+        }
+      },
+      {
+        "name": "Proactiveness",
+        "desc": {
+          "vi": "Chủ động đề xuất giải pháp kỹ thuật và cải tiến quy trình",
+          "en": "Proactively proposing technical improvements and solutions"
+        }
+      },
+      {
+        "name": "Problem-solving",
+        "desc": {
+          "vi": "Tư duy phân tích nguyên nhân gốc rễ và xử lý sự cố hệ thống",
+          "en": "Analytical root-cause investigation and systematic debugging"
+        }
+      },
+      {
+        "name": "Mentorship",
+        "desc": {
+          "vi": "Cố vấn kỹ thuật, hướng dẫn Fresher và chia sẻ kiến thức dự án",
+          "en": "Technical mentorship, unblocking junior engineers, knowledge sharing"
+        }
+      },
+      {
+        "name": "Team Organization & Engagement",
+        "desc": {
+          "vi": "Tổ chức hoạt động phong trào, giải đấu thể thao và gắn kết tập thể",
+          "en": "Organizing athletic tournaments and team-building engagements"
+        }
+      }
+    ],
+    "summary": {
+      "vi": "Team Collaboration, Proactiveness, Problem-solving, Mentorship, Team Organization & Engagement",
+      "en": "Team Collaboration, Proactiveness, Problem-solving, Mentorship, Team Organization & Engagement"
+    }
+  }
+}

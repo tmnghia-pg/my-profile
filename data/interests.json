@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "title": {
+    "vi": "Sở thích & Hoạt động phong trào",
+    "en": "Interests & Activities"
+  },
+  "subtitle": {
+    "vi": "Thể thao, âm nhạc, tinh thần tự học công nghệ và hoạt động phong trào đội ngũ",
+    "en": "Sports, music, self-driven continuous learning, and team engagement activities"
+  },
+  "items": [
+    {
+      "id": "sports-badminton",
+      "icon": "🏸",
+      "name": {
+        "vi": "Sports & Badminton",
+        "en": "Sports & Badminton"
+      },
+      "description": {
+        "vi": "Rèn luyện thể lực, tính kỷ luật và sự nhanh nhạy qua bộ môn cầu lông.",
+        "en": "Endurance, discipline, and agility through regular badminton practice."
+      }
+    },
+    {
+      "id": "team-activities",
+      "icon": "🤝",
+      "name": {
+        "vi": "Team Activities",
+        "en": "Team Activities"
+      },
+      "description": {
+        "vi": "Từng đảm nhiệm vai trò thủ quỹ và trưởng ban phong trào, tổ chức các giải đấu thể thao và hoạt động giao lưu nội bộ, gắn kết đội nhóm.",
+        "en": "Served as team treasurer and activities lead; organized sports tournaments and internal networking events to foster team solidarity."
+      }
+    },
+    {
+      "id": "music-piano",
+      "icon": "🎹",
+      "name": {
+        "vi": "Music & Piano",
+        "en": "Music & Piano"
+      },
+      "description": {
+        "vi": "Cân bằng cuộc sống, rèn luyện sự tập trung và tính kiên trì qua bộ môn piano.",
+        "en": "Work-life balance, mindfulness, and structured creativity through piano."
+      }
+    },
+    {
+      "id": "self-learning",
+      "icon": "📚",
+      "name": {
+        "vi": "Self-learning",
+        "en": "Self-learning"
+      },
+      "description": {
+        "vi": "Chủ động nghiên cứu tài liệu kỹ thuật, kiến trúc phần mềm Clean Architecture và thực hành liên tục.",
+        "en": "Proactive self-driven technical reading, deep architecture study, and hands-on coding practice."
+      }
+    },
+    {
+      "id": "emerging-technology",
+      "icon": "⚡",
+      "name": {
+        "vi": "Emerging Technology",
+        "en": "Emerging Technology"
+      },
+      "description": {
+        "vi": "Nắm bắt và ứng dụng thực tiễn các công cụ AI Coding tiên tiến (Claude Code, Antigravity, Copilot, LLM agents).",
+        "en": "Staying ahead with cutting-edge AI Coding tools and modern engineering workflows (Claude Code, Antigravity, Copilot, LLM agents)."
+      }
+    }
+  ]
+}
